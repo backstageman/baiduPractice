@@ -1,0 +1,85 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    width: 1900px;
+    height: 750px;
+}
+.header{
+    float: left;
+    width: 200px;
+    height: 750px;
+    background-color: rgb(39, 135, 212);
+    padding-top: 50px;
+}
+.header h1{
+    text-align: center;
+    color: #fff;
+}
+.base-info {
+    float: left;
+    width: 1600px;
+    margin:20px 0 0 20px;
+}
+.base-info h2{
+    margin-bottom: 20px;
+}
+.base-info p span{
+    margin-right: 20px;
+    font-weight: bold;
+}
+.contact-info{
+    float: left;
+    width: 1600px;
+    margin:20px 0 0 20px;
+}
+.contact-info h2{
+    margin-bottom: 20px;
+}
+.contact-info p span{
+   margin-right: 20px;
+   font-weight: bold;
+}
+.ability-desc {
+    float: left;
+    width: 1600px;
+    margin:20px 0 0 20px;
+}
+.ability-desc h2{
+    margin-bottom: 20px;
+}
+.ability-desc ul{
+    list-style: none;
+}
+.ability-desc ul li{
+    margin-bottom: 20px;
+}
+.educational-expe{
+    float: left;
+    width: 1600px;
+    margin: 20px 0 0 20px;
+}
+.educational-expe ul{
+    list-style: none;
+}
+.educational-expe h2{
+    margin-bottom: 20px;
+}
+.educational-expe ul li{
+    margin-bottom: 20px;
+}
+.project-expe{
+    float: left;
+    width: 1600px;
+    margin: 20px 0 0 20px;
+}
+.project-expe h2{
+    margin-bottom: 20px;
+}
+.project-expe ul {
+    list-style: none;
+}
+.project-expe ul li {
+    margin-bottom: 20px;
+}

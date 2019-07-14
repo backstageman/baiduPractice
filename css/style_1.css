@@ -1,0 +1,63 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    padding-left: 20px;
+}
+.header h1 {
+    padding: 10px 0;
+}
+h2{
+    padding: 10px 0 ;
+}
+.base-info {
+    padding-bottom: 10px;
+}
+.base-info p span {
+    font-weight: bold;
+    margin-right: 30px;
+}
+.base-info p span span {
+    font-weight: 700;
+}
+.contact-info {
+    padding-bottom: 10px;
+}
+.contact-info p span {
+    margin-right: 30px;
+    font-weight: bold;
+}
+.contact-info p span span { 
+    font-weight: 700;
+}
+.ability-desc {
+    margin-bottom: 30px;
+}
+.ability-desc h2 {
+    margin-bottom: 10px;
+}
+.ability-desc ul {
+    list-style: none;
+}
+.ability-desc ul li {
+    margin-bottom: 20px;
+}
+.educational-expe h2 {
+    margin-bottom: 10px;
+}
+.educational-expe ul {
+    list-style: none;
+}
+.educational-expe ul li {
+    margin-bottom: 20px;
+}
+.project-expe h2 {
+    margin-bottom: 10px;
+}
+.project-expe ul {
+    list-style: none;
+}
+.project-expe ul li {
+    margin-bottom: 20px;
+}
